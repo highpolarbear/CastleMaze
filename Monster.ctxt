@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\r\n\ Class\ Monster\r\n\ A\ monster\ inside\ of\ the\ game.\r\n\ \r\n\ Each\ 'monster'\ has\ a\ name\ attributed\ to\ it\ and\ can\ attack.\r\n\r\n\ @author\ Terry\ Phung\r\n\ \r\n\ Assignment\ 2\ -\ Castle\ Maze.\r\n\ Terry\ Phung\r\n\ K1895389\r\n
+comment1.params=name\ attackPower
+comment1.target=Monster(java.lang.String,\ int)
+comment1.text=\r\n\ Takes\ parameter\ name\ and\ attack\ power,\r\n\ Sets\ it\ to\ Monster.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ Monster\r\n
+comment3.params=
+comment3.target=int\ attack()
+comment3.text=\r\n\ Returns\ the\ attack\ power\ of\ the\ monster.\r\n
+numComments=4

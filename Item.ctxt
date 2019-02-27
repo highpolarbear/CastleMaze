@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Class\ Item\ -\ a\ Item\ in\ the\ game.\r\n\ \r\n\ Each\ 'Item'\ is\ an\ object\ that\ the\ player\ can\ take\ and\ store\ and\ use\ it.\r\n\ It\ has\ a\ name,\ a\ weight\ and\ certain\ items\ have\ readable\ text.\r\n\r\n\ @author\ Terry\ Phung\r\n\r\n\ Assignment\ 2\ -\ Castle\ Maze.\r\n\ Terry\ Phung\r\n\ K1895389\r\n
+comment1.params=name\ weight
+comment1.target=Item(java.lang.String,\ int)
+comment1.text=\r\n\ Takes\ parameter\ name\ and\ weight\ and\ sets\ it\ to\ the\ Item.\r\n
+comment2.params=
+comment2.target=int\ getWeight()
+comment2.text=\r\n\ Returns\ the\ weight\ of\ the\ Item.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Returns\ the\ name\ of\ the\ Item.\r\n
+comment4.params=speech
+comment4.target=void\ setText(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ text\ of\ a\ the\ item\ if\ the\ item\ has\ a\ readable\ text.\r\n
+comment5.params=
+comment5.target=boolean\ hasText()
+comment5.text=\r\n\ \ Returns\ a\ boolean\ value\ to\ check\ if\ the\ item\ has\ a\ text.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getText()
+comment6.text=\r\n\ \ Returns\ the\ text\ of\ the\ item.\r\n
+numComments=7
